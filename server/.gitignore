@@ -1,0 +1,24 @@
+#env
+.env
+*.env
+.env.local
+
+#package
+node_modules/
+
+
+#build
+dist/
+bin/
+
+#data
+data/
+
+# IDE and Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
