@@ -60,6 +60,21 @@ const JOB_TITLES = [
   "Lead",
   "Officer",
   "Intern",
+  "Engineer",
+  "Designer",
+  "Manager",
+  "Developer",
+  "Architect",
+  "Lead",
+  "Officer",
+  "Intern",
+  "Engineer",
+  "Designer",
+  "Manager",
+  "Developer",
+  "Architect",
+  "Lead",
+  "Officer"
 ];
 
 const existingUsers = readUsersFromFile();
